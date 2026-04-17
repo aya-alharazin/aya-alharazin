@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Aya+Alharazin+%F0%9F%91%8B;CS+Graduate+%7C+Teaching+Assistant;Data+Science+%7C+Python+%7C+SQL;Tech+for+Social+Impact+%F0%9F%8C%8D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A94B4B&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Aya+Alharazin+%F0%9F%91%8B;CS+Graduate+%7C+Teaching+Assistant;Data+Science+%7C+Python+%7C+SQL;Tech+for+Social+Impact+%F0%9F%8C%8D)](https://git.io/typing-svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Aya+Alharazin&fontAlign=50&fontAlignY=40&color=ff6b6b&fontColor=ffffff" />
 
