@@ -101,10 +101,9 @@ CS Graduate @ IUG (GPA: 95.71/100)
 
 | Category | Description |
 |---|---|
-| 📂 **Data Structures & Algorithms** | Core CS implementations and teaching materials |
-| 📊 **Data Science Projects** | Analysis with NumPy, Pandas, and visualization |
-| 🧪 **Educational Resources** | Labs, exercises, and materials for IT students |
-| 🌍 **Humanitarian Projects** | Gaza-focused and social impact initiatives |
+| 📊 **Data Science Projects** | Analysis with NumPy, Pandas, Matplotlib, and Seaborn for evidence-based humanitarian response |
+| 🧪 **Educational Resources** | Advanced Java labs covering JPA, JDBC, and multithreading |
+| 🌍 **Humanitarian Projects** | Exploratory data analysis of the Gaza conflict — uncovering patterns in casualties, displacement, and humanitarian impact through data |
 
 ---
 
