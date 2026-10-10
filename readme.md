@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Aya%20Alharazin&fontAlign=50&fontAlignY=38&desc=Data%20Analyst%20%7C%20MEAL%20%7C%20CS%20Educator&descAlignY=58&descSize=18&color=0:F4DCEC,100:D9A7CC&fontColor=5A3A55" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Aya%20Alharazin&fontAlign=50&fontAlignY=38&desc=Data%20Analyst%20%7C%20MEAL%20%7C%20CS%20Educator&descAlignY=58&descSize=18&color=0:FBC8E4,100:F29BCB&fontColor=5A3A55" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=B97FAE&center=true&vCenter=true&width=720&lines=Hi+there%2C+I'm+Aya+%F0%9F%91%8B;Data+Analyst+%7C+MEAL+%7C+CS+Educator;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;Turning+field+data+into+decisions+%F0%9F%8C%8D)](https://git.io/typing-svg)
 
@@ -128,6 +128,6 @@ Next: Data Analyst for Social Impact 🌍
 
 [![committers.top badge](https://user-badge.committers.top/palestine/aya-alharazin.svg)](https://user-badge.committers.top/palestine/aya-alharazin)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:D9A7CC,100:F4DCEC" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:F29BCB,100:FBC8E4" />
 
 </div>
