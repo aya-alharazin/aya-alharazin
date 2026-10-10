@@ -3,12 +3,12 @@
 
 Readme · MD
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Aya%20Alharazin&fontAlign=50&fontAlignY=38&desc=Data%20Analyst%20%7C%20MEAL%20%7C%20CS%20Educator&descAlignY=58&descSize=18&color=0:B8A6D9,100:6B5B95&fontColor=ffffff" />
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8E7CC3&center=true&vCenter=true&width=720&lines=Hi+there%2C+I'm+Aya+%F0%9F%91%8B;Data+Analyst+%7C+MEAL+%7C+CS+Educator;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;Turning+field+data+into+decisions+%F0%9F%8C%8D)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Aya%20Alharazin&fontAlign=50&fontAlignY=38&desc=Data%20Analyst%20%7C%20MEAL%20%7C%20CS%20Educator&descAlignY=58&descSize=18&color=0:F4DCEC,100:D9A7CC&fontColor=5A3A55" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=B97FAE&center=true&vCenter=true&width=720&lines=Hi+there%2C+I'm+Aya+%F0%9F%91%8B;Data+Analyst+%7C+MEAL+%7C+CS+Educator;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;Turning+field+data+into+decisions+%F0%9F%8C%8D)](https://git.io/typing-svg)
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aya-alharazin)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alharazinaya@gmail.com)
-![Profile views](https://komarev.com/ghpvc/?username=aya-alharazin&color=8E7CC3&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile views](https://komarev.com/ghpvc/?username=aya-alharazin&color=B97FAE&style=for-the-badge&label=PROFILE+VIEWS)
  
 </div>
 ---
@@ -57,9 +57,9 @@ I'm a **Computer Science graduate** from the Islamic University of Gaza 🇵🇸
  
 ### 🌍 MEAL & Field Data
 ![KoboToolbox](https://img.shields.io/badge/-KoboToolbox-2095F3?style=flat-square&logoColor=white)
-![Surveys](https://img.shields.io/badge/-Pre%2FPost%20Assessments-8E7CC3?style=flat-square)
-![PDM](https://img.shields.io/badge/-PDM%20Surveys-8E7CC3?style=flat-square)
-![Reporting](https://img.shields.io/badge/-Narrative%20Reporting-8E7CC3?style=flat-square)
+![Surveys](https://img.shields.io/badge/-Pre%2FPost%20Assessments-B97FAE?style=flat-square)
+![PDM](https://img.shields.io/badge/-PDM%20Surveys-B97FAE?style=flat-square)
+![Reporting](https://img.shields.io/badge/-Narrative%20Reporting-B97FAE?style=flat-square)
  
 ### 💻 Programming & Backend
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -111,7 +111,7 @@ Next: Data Analyst for Social Impact 🌍
 ## 📊 GitHub Stats
  
 <div align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=aya-alharazin&theme=dark&hide_border=true&ring=B8A6D9&fire=B8A6D9&currStreakLabel=B8A6D9)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=aya-alharazin&theme=dark&hide_border=true&ring=D9A7CC&fire=D9A7CC&currStreakLabel=D9A7CC)](https://git.io/streak-stats)
 [![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aya-alharazin&theme=dark)](https://github.com/vn7n24fzkq/github-summary-cards)
  
 </div>
@@ -124,7 +124,7 @@ Next: Data Analyst for Social Impact 🌍
 <div align="center">
 [![committers.top badge](https://user-badge.committers.top/palestine/aya-alharazin.svg)](https://user-badge.committers.top/palestine/aya-alharazin)
  
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:6B5B95,100:B8A6D9" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:D9A7CC,100:F4DCEC" />
 </div>
  
 Claude finished the response
